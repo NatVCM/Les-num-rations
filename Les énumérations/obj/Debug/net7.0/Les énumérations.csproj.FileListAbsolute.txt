@@ -1,0 +1,15 @@
+/Users/natachacampos/Desktop/Les énumérations/bin/Debug/net7.0/Les énumérations
+/Users/natachacampos/Desktop/Les énumérations/bin/Debug/net7.0/Les énumérations.deps.json
+/Users/natachacampos/Desktop/Les énumérations/bin/Debug/net7.0/Les énumérations.runtimeconfig.json
+/Users/natachacampos/Desktop/Les énumérations/bin/Debug/net7.0/Les énumérations.dll
+/Users/natachacampos/Desktop/Les énumérations/bin/Debug/net7.0/Les énumérations.pdb
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.csproj.AssemblyReference.cache
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.AssemblyInfoInputs.cache
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.AssemblyInfo.cs
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.csproj.CoreCompileInputs.cache
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.dll
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/refint/Les énumérations.dll
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.pdb
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/Les énumérations.genruntimeconfig.cache
+/Users/natachacampos/Desktop/Les énumérations/obj/Debug/net7.0/ref/Les énumérations.dll
